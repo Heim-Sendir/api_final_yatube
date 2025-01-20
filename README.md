@@ -42,6 +42,11 @@ pip install -r requirements.txt
 python3 manage.py migrate
 ```
 
+Запустить тесты:
+```
+pytest
+```
+
 Запустить проект:
 
 ```

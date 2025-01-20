@@ -47,3 +47,6 @@ python3 manage.py migrate
 ```
 python3 manage.py runserver
 ```
+
+Для просмотра документации запустите проект и перейдите по адресу:
+127.0.0.1:8000/redoc
